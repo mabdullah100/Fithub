@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069828358115",
+    "project_id": "fithub-fyp",
+    "storage_bucket": "fithub-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069828358115:android:3cbd9a4ce16742f95a2ad6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_catalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069828358115-tkn99v712phb75goauuutntcb4fqthog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQgbcqj3M_vsba1Mz7eVw7W0T5YonCmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069828358115-tkn99v712phb75goauuutntcb4fqthog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
